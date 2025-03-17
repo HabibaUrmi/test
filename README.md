@@ -35,4 +35,4 @@ $ git commit -m "Initial commit"
 
 6. Clone an Existing Repository
 
-7.
+7. Make Changes and Push Updates
