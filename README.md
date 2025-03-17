@@ -36,3 +36,16 @@ $ git commit -m "Initial commit"
 6. Clone an Existing Repository
 
 7. Make Changes and Push Updates
+
+# Edit README.md
+
+$ echo "This is a test repository." >> README.md
+
+# Add and commit changes
+
+$ git add README.md
+$ git commit -m "Updated README"
+
+# Push changes
+
+$ git push origin main
