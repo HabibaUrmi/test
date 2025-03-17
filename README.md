@@ -1,6 +1,6 @@
-Testing Git Repository
+# Testing Git Repository
 
-Steps to Set Up and Test a Git Repository:
+## Steps to Set Up and Test a Git Repository:
 
 1. Create a New Repository
 
@@ -86,7 +86,7 @@ $ git merge feature-branch
 
 $ git push origin main
 
-10. Handling Pull Requests (For Collaboration)
+# 10. Handling Pull Requests (For Collaboration)
 
 Fork a repository on GitHub/GitLab.
 
